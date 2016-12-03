@@ -1,7 +1,7 @@
 # Simple CRUD API in Go
 This is an example of a minimalist api that might be ideal for prototyping.
 
-Read the walkthrough on my blog at:
+Read the walkthrough on my blog at:http://cgrant.io/article/go/simple-crud-api-with-go-gin-and-gorm/
 
 
 
